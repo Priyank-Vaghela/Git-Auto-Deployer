@@ -11,5 +11,5 @@ Deploy Code Like a Pro! Automate Code delivery! 😎
 2. When your code is ready to deploy, just run the Script.
 
 ## How to run?
-1. chmod 777 git_auto_deploy.sh
+1. sudo chmod 777 git_auto_deploy.sh
 2. ./git_auto_deploy.sh
