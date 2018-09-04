@@ -5,6 +5,7 @@ Deploy Code Like a Pro! Automate Code delivery! 😎
 - Auto Commit
 - Auto Comment (Changed filenames)
 - Auto add updated files
+- No need to type git credentials everytime. (Auto save)
 
 ## Installation
 1. Download the Bash script.
@@ -13,3 +14,7 @@ Deploy Code Like a Pro! Automate Code delivery! 😎
 ## How to run?
 1. sudo chmod 777 git_auto_deploy.sh
 2. ./git_auto_deploy.sh
+
+## Note
+- If your repository is not empty then run Git_pull.sh
+- Your Git Credentials are saved automatically for faster deployment.
