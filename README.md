@@ -18,3 +18,4 @@ Deploy Code Like a Pro! Automate Code delivery! 😎
 ## Note
 - If your repository is not empty then run Git_pull.sh
 - Your Git Credentials are saved automatically for faster deployment.
+- This script uploads your code by default to the *Master* branch.
