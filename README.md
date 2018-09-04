@@ -13,6 +13,7 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 1. Clone or Download this Repo.
 2. Run git_pull.sh to clone your repo locally.
 3. When your code is ready to deploy, run git.sh
+(*Keep git.sh & git_pull.sh in your project folder*)
 
 ## How to run?
 1. sudo chmod 777 git.sh git_pull.sh
