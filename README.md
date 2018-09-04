@@ -16,8 +16,8 @@ Deploy your code like a Pro! Automate Code Delivery! 😎
 1. sudo chmod 777 git.sh git_pull.sh
 2. ./git_pull.sh or ./git.sh
 
-## Real World Usage
-- Focus on writing code & stop wasting your time writing the same Git Commands & Credentials everytime.
+## Real World Scenario
+- Focus on writing code & stop wasting your time writing the same Git Commands & Credentials again & again.
 
 ## Note
 - If your repository is not empty then run Git_pull.sh
