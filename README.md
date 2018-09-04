@@ -1,5 +1,5 @@
-# Git-Auto-Deployer
-Deploy Code Like a Pro! Automate Code delivery! 🚀
+# Git-Auto-Deployer 🚀
+Deploy Code Like a Pro! Automate Code delivery! 😎
 
 ## Features
 - Auto Commit
