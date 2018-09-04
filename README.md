@@ -1,6 +1,8 @@
 # Git-Auto-Deployer 🚀
 Deploy your code like a Pro! Automate Code Delivery! 😎
 
+<img src="https://alexandernst.com/images/gitautodeploy.png">
+
 ## Features
 - Auto Commit
 - Auto Comment (Changed filenames)
