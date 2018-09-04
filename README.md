@@ -1,4 +1,4 @@
-# Git-auto-deployer
+# Git-Auto-Deployer
 Deploy Code Like a Pro! Automate Code delivery! 🚀
 
 ## Features
