@@ -1,5 +1,5 @@
 # Git-Auto-Deployer 🚀
-Deploy your code like a Pro! Automate Code Delivery! 😎
+Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 
 <img src="gitautodeploy.png">
 
@@ -19,7 +19,7 @@ Deploy your code like a Pro! Automate Code Delivery! 😎
 2. ./git_pull.sh or ./git.sh
 
 ## Real World Scenario
-- Focus on writing code & stop wasting your time writing the same Git Commands & Credentials again & again.
+- Focus on Writing Quality Code & Stop wasting your time typing the same Git Commands/Credentials again & again.
 
 ## Note
 - If your repository is not empty then run Git_pull.sh
