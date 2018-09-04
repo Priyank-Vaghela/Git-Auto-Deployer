@@ -8,12 +8,13 @@ Deploy Code Like a Pro! Automate Code delivery! 😎
 - No need to type git credentials everytime. (Auto save)
 
 ## Installation
-1. Download the Bash script.
-2. When your code is ready to deploy, just run the Script.
+1. Clone or Download this Repo.
+2. Run git_pull.sh to clone your repo locally.
+3. When your code is ready to deploy, run git.sh
 
 ## How to run?
-1. sudo chmod 777 git_auto_deploy.sh
-2. ./git_auto_deploy.sh
+1. sudo chmod 777 git.sh git_pull.sh
+2. ./git_pull.sh or ./git.sh
 
 ## Note
 - If your repository is not empty then run Git_pull.sh
