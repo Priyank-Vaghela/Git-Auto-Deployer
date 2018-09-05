@@ -9,7 +9,6 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 - Auto add updated files
 - No need to type git credentials everytime. (Auto save)
 
-
 ## 1. What is Scratch mode?
 - If you're starting or creating a new repo then start with Scratch mode. Create a new repo from Github & run the script.
 
