@@ -26,11 +26,11 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 - *Keep git.sh & git_setup.sh in your project folder*
 
 ## How to run?
-- For Windows
+- **For Windows**
 1. Open CMD
 2. Simply run git_setup.bat first, then git.bat
 
-- For Linux
+- **For Linux**
 1. sudo chmod 777 git.sh git_setup.sh
 2. ./git_setup.sh then run ./git.sh
 
