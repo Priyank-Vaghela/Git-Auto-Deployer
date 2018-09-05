@@ -16,19 +16,18 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 ## 2. What is Working mode?
 - If you're already working on a repo, then use Working mode. Copy your Repo & run the script.
 
-## Installation
-1. Clone or Download this Repo.
-2. Run git_pull.sh to clone your repo locally.
-3. Then Setup your repo by running git_setup.sh.
-4. Now, whenever your code is ready to deploy, run git.sh. As easy as that ;)
-- *Keep git.sh, git_pull.sh & git_setup.sh in your project folder*
-
-## How to run?
-1. sudo chmod 777 git.sh git_pull.sh git_setup.sh
-2. ./git_pull.sh or ./git.sh
-
 ## Real World Scenario
 - Focus on Writing Quality Code & Stop wasting your time typing the same Git Commands/Credentials again & again.
+
+## Installation
+1. Clone or Download this Repo.
+2. Run git_setup.sh.
+3. Now, whenever you modify your code, run git.sh. As easy as that ;)
+- *Keep git.sh & git_setup.sh in your project folder*
+
+## How to run?
+1. sudo chmod 777 git.sh git_setup.sh
+2. ./git_setup.sh or ./git.sh
 
 ## Requirements
 - Git 
