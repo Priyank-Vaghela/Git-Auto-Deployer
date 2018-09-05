@@ -23,6 +23,10 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 ## Real World Scenario
 - Focus on Writing Quality Code & Stop wasting your time typing the same Git Commands/Credentials again & again.
 
+## Requirements
+- Git 
+- Works on Linux, Windows
+
 ## Note
 - If your repository is not empty then run Git_pull.sh
 - Your Git Credentials are saved automatically for faster deployment.
