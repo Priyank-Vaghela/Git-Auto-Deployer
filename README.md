@@ -33,11 +33,11 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 1. sudo chmod 777 git.sh git_setup.sh
 2. ./git_setup.sh then run ./git.sh
 
-## [Download](https://github.com/Priyank-Vaghela/Git-Auto-Deployer)
-
 ## Requirements
 - Git 
 - Works on Linux, Windows
+
+## [Download now](https://github.com/Priyank-Vaghela/Git-Auto-Deployer)
 
 ## Note
 - If your repository is not empty then run Git_pull.sh
