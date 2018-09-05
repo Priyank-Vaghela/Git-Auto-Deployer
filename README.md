@@ -17,7 +17,7 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 - *Keep git.sh, git_pull.sh & git_setup.sh in your project folder*
 
 ## How to run?
-1. sudo chmod 777 git.sh git_pull.sh
+1. sudo chmod 777 git.sh git_pull.sh git_setup.sh
 2. ./git_pull.sh or ./git.sh
 
 ## Real World Scenario
