@@ -9,6 +9,13 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 - Auto add updated files
 - No need to type git credentials everytime. (Auto save)
 
+
+## 1. What is Scratch mode?
+- If you're starting or creating a new repo then start with Scratch mode. Create a new repo from Github & run the script.
+
+## 2. What is Working mode?
+- If you're already working on a repo, then use Working mode. Copy your Repo & run the script.
+
 ## Installation
 1. Clone or Download this Repo.
 2. Run git_pull.sh to clone your repo locally.
