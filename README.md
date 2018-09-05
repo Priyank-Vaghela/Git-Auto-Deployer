@@ -14,7 +14,7 @@ Deploy your code like a Pro! Automate Code Delivery via Git! 😎
 2. Run git_pull.sh to clone your repo locally.
 3. Then Setup your repo by running git_first_run.sh.
 4. Now, whenever your code is ready to deploy, run git.sh. As easy as that ;)
-- (*Keep git.sh, git_pull.sh & git_first_run.sh in your project folder*)
+- *Keep git.sh, git_pull.sh & git_first_run.sh in your project folder*
 
 ## How to run?
 1. sudo chmod 777 git.sh git_pull.sh
