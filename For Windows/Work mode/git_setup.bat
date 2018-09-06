@@ -1,4 +1,4 @@
-sudo echo Initializing Git auto deployer..
+echo Initializing Git auto deployer..
 read -p "Enter Your Repository URL: "  repo
 echo "Adding your Repo..."
 git init
